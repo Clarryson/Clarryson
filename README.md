@@ -1,15 +1,7 @@
-## Hi there 👋
 
-**Clarryson/Clarryson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
-- 🔭 I’m currently working on computer programming.
-- 🌱 I’m currently a beginner in computer programming.
-- 👯 I’m looking to collaborate on all the projects ahead of me.
-- 🤔 I am eager to learn programming languages and become a master for my career development.
+**Clarryson/Clarryson** 
 
-- 📫 Reach me at clarrysoncarson003@gmail.com
-- 😄 Talk less< listen more
-- ⚡ Hurt me with the Truth.
   Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Clarryson 
 
 
@@ -23,6 +15,8 @@ I am a new beginner in computer programming and am ready to learn all the langua
 * 🧠  I'm learning I am currently a beginner in computer programming.
 * 🤝  I'm open to collaborating on Participating in projects making that i will be given when I am screwed.
 * ⚡  I am eager to have knowledge on programming and master it.
+* 😄 Talk less< listen more
+* ⚡ Hurt me with the Truth.
 
 <a href="https://www.x.com/clarryson_son" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/clarryson_son?logo=twitter&style=for-the-badge&color=000000&labelColor=14532d"
