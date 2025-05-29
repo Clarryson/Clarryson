@@ -9,7 +9,7 @@ I am a new beginner in computer programming and am ready to learn all the langua
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [clarrysoncarson003@gmail.com](mailto:clarrysoncarson003@gmail.com)
-* 🧠  I'm learning I am currently a beginner in computer programming.
+* 🧠  I'm currently doing computer science.
 * 🤝  I'm open to collaborating on Participating in projects making that i will be given when I am screwed.
 * ⚡  I am eager to have knowledge on programming and master it.
 
