@@ -5,13 +5,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Programmer
 -------------------
 
-I am a new beginner in computer programming and am ready to learn all the languages and tools used in programming and I even be able to have personal projects.
+I am  Clarryson Kedogo a computer scientist student  passionate about machine learning,Artificial intelligence  and  Data science and  I am ready to learn programming languages that I can use them to solve real-world problems by coming up with projects for solving the real world problems that can be solved by tech.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [clarrysoncarson003@gmail.com](mailto:clarrysoncarson003@gmail.com)
 * 🧠  I'm currently doing computer science.
 * 🤝  I'm open to collaborating on Participating in projects making that i will be given when I am screwed.
-* ⚡  I am eager to have knowledge on programming and master it.
+* ⚡  I am eager to have knowledge on machine learning and Artificial intelligence and master it.
 
 <a href="https://www.github.com/clarryson" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/clarryson?logo=github&style=for-the-badge&color=14b8a6&labelColor=1e3a8a" /></a><a href="https://www.x.com/clarryson_son" target="_blank" rel="noreferrer"><img
