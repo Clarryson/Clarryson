@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Clarryson Kedogo
 ========================================================================================================================================
 
-Computer Programmer
+Computer Science STudent At University Of Embu
 -------------------
 
 I am  Clarryson Kedogo a computer scientist student  passionate about machine learning,Artificial intelligence  and  Data science and  I am ready to learn programming languages that I can use them to solve real-world problems by coming up with projects for solving the real world problems that can be solved by tech.
