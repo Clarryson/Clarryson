@@ -2,11 +2,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Clarryson Kedogo
 ========================================================================================================================================
 
-Computer Science Student At University Of Embu
--------------------
-
-# Hi there 👋, I'm Clarryson Kedogo
-
 🎓 Computer Science Student passionate about using technology to solve real-world problems.
 
 ## 🚀 About Me
