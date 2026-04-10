@@ -5,13 +5,46 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student At University Of Embu
 -------------------
 
-I am  Clarryson Kedogo a computer scientist student  passionate about machine learning,Artificial intelligence  and Networking  I am ready to learn programming languages that I can use them to solve real-world problems by coming up with projects for solving the real world problems that can be solved by tech.
+# Hi there 👋, I'm Clarryson Kedogo
 
-* 🌍  I'm based in Nairobi
-* ✉️  You can contact me at [clarrysoncarson003@gmail.com](mailto:clarrysoncarson003@gmail.com)
-* 🧠  I'm currently pursuing computer science focusing on networking ,C++ and C
-* 🤝  I'm open to collaborating on Participating in projects making that i will be given when I am screwed.
-* ⚡  I am eager to have knowledge on machine learning and Artificial intelligence and master it.
+🎓 Computer Science Student passionate about using technology to solve real-world problems.
+
+## 🚀 About Me
+I am a Computer Science student interested in building innovative solutions using technology. My main interests are in **Machine Learning, Artificial Intelligence, and Computer Networking**. I enjoy learning new technologies and applying them to solve real-world challenges.
+
+- 🌍 I'm based in Nairobi, Kenya
+- ✉️ You can contact me at: **clarrysoncarson003@gmail.com**
+- 🧠 Currently studying **Computer Science**
+- 💻 Learning **Networking, C++, and C programming**
+- 🤝 Open to collaborating on **tech projects, open-source contributions, and hackathons**
+- ⚡ Goal: To gain deep knowledge in **Machine Learning and Artificial Intelligence**
+
+## 🛠️ Skills & Technologies
+- Programming: **C, C++**
+- Networking
+- Git & GitHub
+- Problem Solving
+
+## 📚 Currently Learning
+- Machine Learning
+- Artificial Intelligence
+- Advanced Networking Concepts
+
+## 🤝 Collaboration
+I am open to collaborating on:
+- Open-source projects
+- AI and Machine Learning projects
+- Networking projects
+- Student developer projects
+
+## 📈 GitHub Stats
+![Clarryson's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🌐 Let's Connect
+- Email: clarrysoncarson003@gmail.com
+
+---
+⭐ *“Technology can solve real-world problems when used creatively and responsibly.”*
 
 <a href="https://www.github.com/clarryson" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/clarryson?logo=github&style=for-the-badge&color=14b8a6&labelColor=1e3a8a" /></a><a href="https://www.x.com/clarryson_son" target="_blank" rel="noreferrer"><img
