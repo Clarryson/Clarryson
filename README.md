@@ -19,7 +19,6 @@ I am a Computer Science student interested in building innovative solutions usin
 - Problem Solving
 
 ## 📚 Currently Learning
-- Machine Learning
 - Artificial Intelligence
 - Advanced Networking Concepts
 
