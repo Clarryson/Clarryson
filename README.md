@@ -1,8 +1,6 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Clarryson Kedogo
-========================================================================================================================================
-
-🎓 Computer Science Student passionate about using technology to solve real-world problems.
+=======================================================================================================================================
 
 ## 🚀 About Me
 I am a Computer Science student interested in building innovative solutions using technology. My main interests are in **Machine Learning, Artificial Intelligence, and Computer Networking**. I enjoy learning new technologies and applying them to solve real-world challenges.
