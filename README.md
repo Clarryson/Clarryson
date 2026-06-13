@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=My name is Clarryson ;I am a Network Engineer)](https://git.io/typing-svg)
 # 💫 About Me:
 I am a Network Engineer interested in building innovative solutions using technology. My main interests are in network automation,Cloud,Artificial Intelligence, and Computer Networking. I enjoy learning new technologies and applying them to solve real-world challenges.<br>🌱 I’m currently learning Learning Network automations, C,C++ and python<br><br>💬 Ask me about Networking<br><br>📫 How to reach me clarrysoncarson003@gmail.com<br><br>⚡ Fun fact I learn from mistakes.<br><br>
 
