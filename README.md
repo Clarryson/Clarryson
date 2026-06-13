@@ -1,15 +1,4 @@
-<div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F713&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Clarryson!+%F0%9F%91%8B;I am+Networkl+Engineer+Automation+is +Modern +Networking%F0%9F%90%9B;IT+Student+%40+Uni+of+Embu;Ronaldo+is+the+GOAT+%F0%9F%90%90" alt="Typing SVG" />
-</a>
-
-
----
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-
-</div>
 # 💫 About Me:
 I am a Network Engineer interested in building innovative solutions using technology. My main interests are in network automation,Cloud,Artificial Intelligence, and Computer Networking. I enjoy learning new technologies and applying them to solve real-world challenges.<br>🌱 I’m currently learning Learning Network automations, C,C++ and python<br><br>💬 Ask me about Networking<br><br>📫 How to reach me clarrysoncarson003@gmail.com<br><br>⚡ Fun fact I learn from mistakes.<br><br>
 
