@@ -1,21 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2496ED&height=250&section=header&text=Clarryson%20Kedogo &fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cloud%20|%20DevOps%20|%20SRE&descAlignY=55&descSize=25&stroke=000000" width="100%" />
-</div>
 
-
-
-<p align="center">
-  <a href="https://clarrysonk.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/Clarrysonkedogo" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/lxmwaniky" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://dev.to/clarryson_carson_9aede618" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Blog-FF0000?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" /></a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@018ca1cf-4e5f-42b9-90f3-aabb55ecea4a" target="_blank" rel="noopener noreferrer">
-    <img src="https://wakatime.com/badge/user/018ca1cf-4e5f-42b9-90f3-aabb55ecea4a.svg" alt="wakatime" />
-  </a>
-</p>
 # 💫 About Me:
 I am a Network Engineer interested in building innovative solutions using technology. My main interests are in network automation,Cloud,Artificial Intelligence, and Computer Networking. I enjoy learning new technologies and applying them to solve real-world challenges.<br>🌱 I’m currently learning Learning Network automations, C,C++ and python<br><br>💬 Ask me about Networking<br><br>📫 How to reach me clarrysoncarson003@gmail.com<br><br>⚡ Fun fact I learn from mistakes.<br><br>
 
