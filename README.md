@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Clarryson Kedogo</h1>
-<h3 align="center">Computer Science student, founder of Alumni Digital Solutions, and aspiring Network Engineer from Kabwareng, Nandi County.</h3>
+<h1 align="center">Hi 👋, I'm Clarryson</h1>
+<h3 align="center">I am a Computer Science student interested in building innovative solutions using technology. My main interests are in Machine Learning, Artificial Intelligence, and Computer Networking. I enjoy learning new technologies and applying them to solve real-world challenges.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clarryson" alt="clarryson" /></a> </p>
 
-- 🌱 I’m currently building **Mkulimabrief** (AgriTech project) and learning network automations, C, C++, and Python.
-- 💬 Ask me about **Networking, startup strategy, or Fedora Linux/KDE Plasma**.
+- 🌱 I’m currently learning **Learning Network automations, C,C++ and python**
+
+- 💬 Ask me about **Networking**
+
 - 📫 How to reach me **clarrysoncarson003@gmail.com**
-- ⚡ Fun fact **I don't just learn from mistakes; I document them to build better systems.**
+
+- ⚡ Fun fact **I learn from mistakes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
