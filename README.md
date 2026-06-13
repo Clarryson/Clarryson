@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clarryson</h1>
-<h3 align="center">I am a Network Engineer interested in building innovative solutions using technology. My main interests are in network automation,Cloud Artificial Intelligence, and Computer Networking. I enjoy learning new technologies and applying them to solve real-world challenges.</h3>
+<h3 align="center">I am a Network Engineer interested in building innovative solutions using technology. My main interests are in network automation,Cloud,Artificial Intelligence, and Computer Networking. I enjoy learning new technologies and applying them to solve real-world challenges.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clarryson" alt="clarryson" /></a> </p>
 
