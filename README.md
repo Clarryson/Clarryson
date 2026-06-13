@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2496ED&height=250&section=header&text=Clarryson%20Kedogo &fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cloud%20|%20DevOps%20|%20SRE&descAlignY=55&descSize=25&stroke=000000" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2496ED&center=true&vCenter=true&width=750&lines=Cloud+%7C+DevOps+%7C+SRE;Building+Scalable+Architecture;Automating+Infrastructure+with+Code;Escaping+localhost,+one+container+at+a+time." alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <a href="https://clarrysonk.me" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
