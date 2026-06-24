@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2496ED&height=250&section=header&text=Clarryson%20Kedogo&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Network%20Architecture%20|%20Network%20Automation&descAlignY=55&descSize=25" width="100%" />
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2496ED&center=true&vCenter=true&width=750&lines=Software+Engineer;Networking+Engineer;Network+Automation;Building+Cool+Projects" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2496ED&center=true&vCenter=true&width=750&lines=Software+Engineer;Network+Engineer;Network+Automation;Building+Cool+Projects" />
   </p>
 </div>
 # 💫 About Me:
